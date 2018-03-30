@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script&subset=korean');
+
+ul{
+	text-align: center;
+	padding: 0 20px;
+	margin:30px auto;
+}
+nav{
+	width: 100%;
+	height: 70px;
+}
+
+header{
+	width: 100%;
+	height: 600px;
+	color: #FF8000;
+	
+}
+
+
+h2{
+	font-size:60px;
+	padding: 60px;
+}
+
+header .container1{
+	text-align: center;
+	font-size:18px;
+}
+
+section{
+	width: 100%;
+	margin: 100px auto;
+	
+}
+
+.copyright{
+	background-color: #000000;
+	text-align: center;
+	width: 100%;
+	
+}
+
+.copyright p{
+	color: #FFF;
+	font-size: 15px;
+	padding: 20px;
+
+}
+
+.container1{
+	width: 960px;
+	margin:0 auto;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+#name{
+	float:left;
+	padding-top: 20px;
+}
+
+#menu{
+	margin-left: 700px;
+	word-spacing: 5px;
+	padding-top: 20px;
+}
+
+article{
+	width:310px;git
+	height: auto;
+	font-size:15px;
+
+}
+
+article p{
+	font-size: 15px;
+
+}
+
+#bgimg{
+	background-image: url(img/6.jpg);
+	background-size:cover;
+}
+
+#one{
+	float:left;
+}
+
+#two{
+	margin: 0 auto;
+}
+#three{
+	float: right;
+
+}
